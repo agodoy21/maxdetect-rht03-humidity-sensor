@@ -1,6 +1,6 @@
 {
     "name": "rht03-humidity-temperature-sensor",
-    "version": "1.0",
+    "version": "1.0.0",
     "author": "Marc Liyanage <reg.github@entropy.ch>",
     "license": "BSD",
     "description": "Reads out a Maxdetect RHT03 (also known as DHT22 and AM2302) humidity/temperature sensor."
